@@ -11,7 +11,7 @@
     "react",
     "webpack"
   ],
-  "author": "CreativeRusBear",
+  "author": "Artem Gusev (CreativeRusBear) <gusev2014russia@mail.ru>",
   "license": "MIT",
   "browserslist": ">1%, last 2 versions",
   "devDependencies": {
